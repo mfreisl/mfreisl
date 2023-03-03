@@ -4,14 +4,14 @@
 
 
 
--📫 You can reach me via **mathias.freisleben@gmail.com**
+📫 You can reach me via **mathias.freisleben@gmail.com**
 <br>
 <br>
 <h3>Check out some of my cool projects!!</h3>
 <br>
-<a href="https://github.com/marikhomeriki/product_review_analysis">Sentiment Analysis of yelp and Trustpilot reviews using NLP</a>
+<a href="https://github.com/marikhomeriki/product_review_analysis">*Sentiment Analysis of yelp and Trustpilot reviews using NLP</a>
 <br>
-<a href="https://github.com/mfreisl/Trading-Bot_v1">Trading Bot for Stocks using Alpaca Finance by scanning market conditions on a daily basis</a>
+<a href="https://github.com/mfreisl/Trading-Bot_v1">*Trading Bot for Stocks using Alpaca Finance by scanning market conditions on a daily basis</a>
 <br>
 <a href=""></a>
 <br>
