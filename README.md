@@ -9,6 +9,7 @@
 Check out some of my cool projects: 
 [Review Analysis for yelp and Trustpilot] (https://github.com/marikhomeriki/product_review_analysis)
 
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 
 
