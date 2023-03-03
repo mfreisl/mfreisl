@@ -9,7 +9,9 @@
 Check out some of my cool projects: 
 
 <a href="https://github.com/marikhomeriki/product_review_analysis">Review Analysis for yelp and Trustpilot</a>
+<hr>
 <a href="https://github.com/mfreisl/Trading-Bot_v1">Trading Bot for Stocks using Alpaca Finance</a>
+<hr>
 <a href=""></a>
 
 
