@@ -5,9 +5,14 @@
 
 
 -📫 You can reach me via **mathias.freisleben@gmail.com**
+<br>
+<br>
+<br>
+<br>
 
 <h3>Check out some of my cool projects!!</h3>
-
+<br>
+<br>
 <a href="https://github.com/marikhomeriki/product_review_analysis">Sentiment Analysis of yelp and Trustpilot reviews using NLP</a>
 <br>
 <a href="https://github.com/mfreisl/Trading-Bot_v1">Trading Bot for Stocks using Alpaca Finance by scanning market conditions on a daily basis</a>
@@ -15,7 +20,13 @@
 <a href=""></a>
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
