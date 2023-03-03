@@ -6,7 +6,7 @@
 
 -📫 You can reach me via **mathias.freisleben@gmail.com**
 
-<hr>Check out some of my cool projects!!</hr>
+<h3>Check out some of my cool projects!!</h3>
 
 <a href="https://github.com/marikhomeriki/product_review_analysis">Sentiment Analysis of yelp and Trustpilot reviews using NLP</a>
 <br>
