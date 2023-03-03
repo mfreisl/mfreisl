@@ -6,7 +6,8 @@
 
 -📫 You can reach me via **mathias.freisleben@gmail.com**
 
-Check out some of my cool projects: **https://github.com/marikhomeriki/product_review_analysis**
+Check out some of my cool projects: 
+[Review Analysis for yelp and Trustpilot] (https://github.com/marikhomeriki/product_review_analysis)
 
 
 
