@@ -7,9 +7,10 @@
 -📫 You can reach me via **mathias.freisleben@gmail.com**
 
 Check out some of my cool projects: 
-[Review Analysis for yelp and Trustpilot] (https://github.com/marikhomeriki/product_review_analysis)
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="https://github.com/marikhomeriki/product_review_analysis">Review Analysis for yelp and Trustpilot</a>
+<a href="https://github.com/mfreisl/Trading-Bot_v1">Trading Bot for Stocks using Alpaca Finance</a>
+<a href=""></a>
 
 
 
