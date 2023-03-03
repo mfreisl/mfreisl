@@ -6,6 +6,12 @@
 
 -📫 You can reach me via **mathias.freisleben@gmail.com**
 
+Check out some of my cool projects: **https://github.com/marikhomeriki/product_review_analysis**
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mathiasfreisleben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathiasfreisleben" height="30" width="40" /></a>
