@@ -13,7 +13,7 @@
 <br>
 <a href="https://github.com/mfreisl/Trading-Bot_v1">- Trading Bot for Stocks using Alpaca Finance by scanning market conditions</a>
 <br>
-<a href=""></a>
+<a href="https://github.com/mfreisl/Excel_split_tool">- Tool to split an excel file into multiple files based on values of a specific column</a>
 <br>
 <br>
 <br>
